@@ -4,7 +4,7 @@
     "description": "Starter for Keycloakify 11",
     "repository": {
         "type": "git",
-        "url": "git://github.com/codegouvfr/keycloakify-starter.git"
+        "url": "git://github.com/front-matter/keycloakify-starter.git"
     },
     "type": "module",
     "scripts": {
